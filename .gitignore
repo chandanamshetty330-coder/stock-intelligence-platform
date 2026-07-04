@@ -1,5 +1,8 @@
 .env
-models/
-data/
 __pycache__/
-*.pkl
+*.pyc
+.venv/
+venv/
+*.log
+.DS_Store
+.vscode/
