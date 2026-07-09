@@ -2,6 +2,10 @@
 
 A full-featured, cloud-connected stock market intelligence platform built with Streamlit, Supabase, and a custom-trained LSTM neural network — combining real-time market data, AI-driven predictions, sentiment analysis, and portfolio management into one product.
 
+🔗 **Live Demo:** [stock-intelligence-platform-10ng.onrender.com](https://stock-intelligence-platform-10ng.onrender.com)
+
+> ⚠️ Hosted on Render's free tier — the app may take 30–50 seconds to wake up on first load if it's been inactive.
+
 ## 🚀 Features
 
 - **🔐 Authentication** — Secure signup/login via Supabase Auth
